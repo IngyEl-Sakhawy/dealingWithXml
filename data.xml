@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<users>
+
+    <record>
+    <name>ingy</name>
+    <age/>
+    <email/>
+    </record>
+
+<record><name>malak</name><age/><email>hello@gmail.com</email></record></users>

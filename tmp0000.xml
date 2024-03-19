@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<Employees>
+		<emp>
+			<name>john</name>
+			
+			<phones>
+				<phone type="home">123-125-551</phone>
+				<phone type="work">123-125-552</phone>
+				<phone type="emgc">123-125-553</phone>
+			</phones>
+			
+			<addresses>
+				<address>
+					<street>Main St</street>
+					<building_number>1 no.</building_number>
+					<region>Region</region>
+					<city>City</city>
+					<country>Country</country>
+				</address>
+			</addresses>
+			
+			<email>john@example.com</email>
+			
+		</emp>
+		
+		<emp>
+			<name>louren</name>
+			
+			<phones>
+				<phone type="home">123-125-551</phone>
+				<phone type="work">123-125-552</phone>
+				<phone type="emgc">123-125-553</phone>
+			</phones>
+			
+			<addresses>
+				<address>
+					<street>Main St</street>
+					<building_number>2 no.</building_number>
+					<region>Region</region>
+					<city>City</city>
+					<country>Country</country>
+				</address>
+			</addresses>
+			
+			<email>louren@example.com</email>
+			
+		</emp>
+	
+</Employees>

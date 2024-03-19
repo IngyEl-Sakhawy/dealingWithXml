@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
+<library>
+    <location>New York Public Library</location>
+    <description>A historic library located in New York City.</description>
+    <librarian>John Smith</librarian>
+    <books>
+        <book>
+            <title>The Great Gatsby</title>
+            <isbn>9780743273565</isbn>
+            <author>F. Scott Fitzgerald</author>
+            <preface>This is the preface of The Great Gatsby.</preface>
+            <parts>
+                <part>
+                    <title>Part 1</title>
+                    <chapters>
+                        <chapter>
+                            <title>Chapter 1</title>
+                            <summary>Summary of Chapter 1</summary>
+                            <sections>
+                                <section>This is the content of Chapter 1, Section 1.</section>
+                                <section>This is the content of Chapter 1, Section 2.</section>
+                            </sections>
+                        </chapter>
+                        <chapter>
+                            <title>Chapter 2</title>
+                            <summary>Summary of Chapter 2</summary>
+                            <sections>
+                                <section>This is the content of Chapter 2, Section 1.</section>
+                                <section>This is the content of Chapter 2, Section 2.</section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+        <book>
+            <title>To Kill a Mockingbird</title>
+            <isbn>9780061120084</isbn>
+            <author>Harper Lee</author>
+            <preface>This is the preface of To Kill a Mockingbird.</preface>
+            <parts>
+                <part>
+                    <title>Part 1</title>
+                    <chapters>
+                        <chapter>
+                            <title>Chapter 1</title>
+                            <summary>Summary of Chapter 1</summary>
+                            <sections>
+                                <section>This is the content of Chapter 1, Section 1.</section>
+                                <section>This is the content of Chapter 1, Section 2.</section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+       
+    </books>
+</library>
